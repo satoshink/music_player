@@ -3,7 +3,7 @@
 
 ## How to start the player
 1. Make sure that you have Python 3 installed on your computer.
-2. If you don't, go to this link: [title](https://www.python.org/downloads/) and install Python 3
+2. If you don't, go to this link: [Download Python | Python.org](https://www.python.org/downloads/) and install Python 3
 3. Find main.py and run it.
 4. Ta-Da!
 
